@@ -1,0 +1,37 @@
+
+
+h1 {
+  border: 2px solid black; /* add a 1px solid black border */
+  padding: 10px; /* add some padding to the heading */
+ background-color: blue;
+  text-align: center;
+}
+
+
+
+.form-group{
+  border: solid black;
+}
+
+body {
+background-color: lightskyblue;
+}
+
+
+
+
+
+/* styles.css */
+
+
+
+
+
+
+
+.btn {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
